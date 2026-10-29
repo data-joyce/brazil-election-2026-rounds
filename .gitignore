@@ -1,0 +1,6 @@
+# raw TSE files and the database are too big for GitHub
+*.db
+*.zip
+detalhe.csv
+partido.csv
+.DS_Store
